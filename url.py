@@ -26,6 +26,12 @@ IMAGES = {
         "d cache",
         "d money",
         "d ram"
+    ],
+    "bromance.jpg": [
+    	"tomo",
+	"moto",
+	"love",
+	"bromance"
     ]
 }
 
